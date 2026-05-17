@@ -26,12 +26,15 @@ This project performs sentiment analysis on user reviews from the Google Play St
 ## 🛠️ Tech Stack
 
 - Python
-- Pandas
-- NumPy
-- Scikit-learn
-- NLP (Natural Language Processing)
-- Matplotlib
-- Seaborn
+- pandas
+- google-play-scraper
+- scikit-learn
+- tensorflow
+- matplotlib
+- seaborn
+- nltk
+- requests
+- beautifulsoup4
 - Jupyter Notebook
 
 ---
@@ -40,8 +43,8 @@ This project performs sentiment analysis on user reviews from the Google Play St
 
 .gitignore  
 model.ipynb  
-requirements.txt  
 README.md  
+requirements.txt  
 dataset.csv  
 
 ---
